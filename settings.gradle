@@ -1,1 +1,1 @@
-include ':app', ':Demo'
+include ':app', ':Lifecycle', ':LiveData', ':ViewModel'
